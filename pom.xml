@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>uz.itpu.y1.s2.CourseProject-Furniture-Warehouse</groupId>
-    <artifactId>y1.s2.CourseProject-Furniture-Warehouse</artifactId>
+    <groupId>furniture-warehouse-java-course-project</groupId>
+    <artifactId>furniture-warehouse-java-course-project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

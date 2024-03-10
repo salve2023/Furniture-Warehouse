@@ -1,3 +1,3 @@
 #Furniture warehouse
 
-## Description
+## Description of my project
